@@ -136,6 +136,13 @@
         "grumpy"
       ],
       "id": "13"
+    },
+    {
+      "name": "Bobby",
+      "species": "Bobcat",
+      "diet": "herbivore",
+      "personalityTraits": [],
+      "id": "14"
     }
   ]
 }
